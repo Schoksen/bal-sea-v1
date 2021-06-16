@@ -3,7 +3,7 @@ banner:
   enable: true
   title: Seagras is boss
   content: Seagras has gone where noone has gone before. To the moon.
-  image: images/hero-image/hero-slider-01.jpg
+  image: "/images/pexels-cottonbro-4828246.jpg"
   button:
     enable: true
     label: WHAT WE DO
